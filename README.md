@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm İsa</h1>
+<h1 align="center"> Hi there 👋 I'ts Cyber OS lab</h1>
 <h2 align="center"> Front-End Developer</h2>
 <p align="center"> ⚡ I decided to pursue a career in programming while writing my master's thesis on artificial intelligence. While researching AI, I found myself in awe as I delved deeper into programming. So I enrolled in computer programming education and started doing individual studies. After deciding that frontend development is the field for me, I focused on this field and attended two bootcamps. I am proficient in HTML, CSS, JavaScript, Vue.js, and React.js. My motto is "Lead the world with code." I am an innovative person attaching importance to logical thinking. Eager to absorb as much knowledge and insight as possible in the pursuance of my goals. I love <strong>contribeauting</strong> to open source projects and <strong>creativing</strong> new things!</p>
 <hr>
